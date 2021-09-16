@@ -1,1 +1,1 @@
-print("Hello world mijn naam is mo")
+print("Hello world mijn naam is mo en ik ben 20")
